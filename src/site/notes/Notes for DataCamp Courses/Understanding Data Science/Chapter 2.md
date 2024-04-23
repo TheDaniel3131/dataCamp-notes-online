@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T18:59:26.633+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T21:04:44.911+08:00"}
 ---
 
 # Data Collection & Storage
@@ -262,6 +262,10 @@ Now that you understand different ways of storing data, let’s practice!
 
 ![Pasted image 20240423185120.png](/img/user/Pasted%20image%2020240423185120.png)
 
+#### Which type of database?
+
+It's important to understand what type of data you are dealing with because it will affect your storage decision. Some data is tabular and belongs in a **Relational Database**. Some is unstructured and belongs in a **Document Database**.
+
 ![Pasted image 20240423185254.png](/img/user/Pasted%20image%2020240423185254.png)
 
 ## Lesson 4 - Data Pipelines
@@ -333,6 +337,12 @@ Once we've set up all those steps, we automate. For example, we can say every ti
 Now, it's time for some exercises.
 
 ![Pasted image 20240423185753.png](/img/user/Pasted%20image%2020240423185753.png)
+
+#### Extract Transform Load
+
+Tech companies have complex large-scale data pipelines to deal with the huge amount of data coming from millions of users, whether it's incoming social media posts, viewership data of TV episodes, or recent online purchases.
+
+Imagine the data pipeline of a music streaming service. In this exercise, there are several pipeline tasks listed. Classify those tasks within the steps of ETL.
 
 ![Pasted image 20240423185925.png](/img/user/Pasted%20image%2020240423185925.png)
 
