@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T18:17:29.930+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T18:18:19.269+08:00"}
 ---
 
 # Data Collection & Storage
@@ -152,3 +152,4 @@ In this video we looked at the most common data types: quantitative data, qualit
 But first, let's see if you know the difference between the different types of data. Let's practice!
 
 ![Pasted image 20240423174958.png](/img/user/Pasted%20image%2020240423174958.png)
+
