@@ -11,5 +11,6 @@ Main Page: https://datacamp-notes-online.vercel.app/
 - [[Notes for DataCamp Courses/Understanding Data Science/Chapter 1\|Chapter 1]]
 - [[Notes for DataCamp Courses/Understanding Data Science/Chapter 2\|Chapter 2]]
 - [[Notes for DataCamp Courses/Understanding Data Science/Chapter 3\|Chapter 3]]
+- [[Notes for DataCamp Courses/Understanding Data Science/Chapter 4\|Chapter 4]]
 
 { .block-language-dataview}
