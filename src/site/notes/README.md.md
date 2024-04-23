@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/readme-md/","tags":["gardenEntry"],"noteIcon":"","created":"2024-04-23T17:44:36.198+08:00","updated":"2024-04-23T18:41:42.379+08:00"}
+{"dg-publish":true,"permalink":"/readme-md/","tags":["gardenEntry"],"noteIcon":"","created":"2024-04-23T17:44:36.198+08:00","updated":"2024-04-23T18:43:36.820+08:00"}
 ---
 
-## DataCamp Courses (Study Materials & Notes)
+# DataCamp Courses (Study Materials & Notes)
 
 The purpose of this note is for me and everyone who are interested in the courses to learn and understand each course provides. 
 
