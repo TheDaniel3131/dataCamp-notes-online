@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T18:18:19.269+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T18:38:29.664+08:00"}
 ---
 
 # Data Collection & Storage
@@ -95,7 +95,12 @@ You might wonder why it's important to know what type of data you have collected
 
 00:45 - 01:15
 
-There are two general types of data: qualitative and quantitative data. It’s important to understand the key differences between both. Quantitative data can be counted, measured, and expressed using numbers. Qualitative data is descriptive and conceptual. Qualitative data can be observed but not measured. Now that we know the differences, let’s dive into each type of data with a real-world example.
+There are two general types of data: qualitative and quantitative data. It’s important to understand the key differences between both. 
+
+### Quantitative data can be counted, measured, and expressed using numbers. 
+
+### Qualitative data is descriptive and conceptual. Qualitative data can be observed but not measured. Now that we know the differences, let’s dive into each type of data with a real-world example.
+
 
 ## 4. Quantitative data
 
@@ -153,3 +158,6 @@ But first, let's see if you know the difference between the different types of d
 
 ![Pasted image 20240423174958.png](/img/user/Pasted%20image%2020240423174958.png)
 
+![Pasted image 20240423183749.png](/img/user/Pasted%20image%2020240423183749.png)
+
+![Pasted image 20240423183828.png](/img/user/Pasted%20image%2020240423183828.png)
