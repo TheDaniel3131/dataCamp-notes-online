@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-4/","noteIcon":"","created":"2024-04-23T22:30:41.665+08:00","updated":"2024-04-23T23:19:50.800+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-4/","created":"2024-04-24T12:03:07.502+08:00","updated":"2024-04-24T12:03:55.404+08:00"}
 ---
 
 
@@ -433,6 +433,3 @@ If, after taking this course, you're convinced of the power of data science and 
 02:04 - 02:12
 
 Once again, thank you for taking this course. We wish you the best of luck with your future data science endeavors!
-
-
-https://www.linkedin.com/shareArticle?mini=true&source=DataCamp&summary=I+just+completed+the+course+%22Understanding+Data+Science%22%21&title=I+just+completed+the+course+%22Understanding+Data+Science%22%21&url=https%3A%2F%2Fwww.datacamp.com%2Fcompleted%2Fstatement-of-accomplishment%2Fcourse%2F4927be8bdaa4943e794a5e349a033aac12879a53
