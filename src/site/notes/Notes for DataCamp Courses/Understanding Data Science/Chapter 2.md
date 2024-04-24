@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T21:04:44.911+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-2/","noteIcon":"","created":"2024-04-23T16:22:07.830+08:00","updated":"2024-04-23T21:04:44.911+08:00"}
 ---
 
 # Data Collection & Storage
