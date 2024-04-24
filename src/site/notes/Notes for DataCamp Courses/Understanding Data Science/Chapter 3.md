@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-3/","noteIcon":"","created":"2024-04-23T18:59:42.359+08:00","updated":"2024-04-23T22:29:34.736+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-3/","created":"2024-04-23T18:59:42.359+08:00","updated":"2024-04-23T22:29:34.736+08:00"}
 ---
 
 
