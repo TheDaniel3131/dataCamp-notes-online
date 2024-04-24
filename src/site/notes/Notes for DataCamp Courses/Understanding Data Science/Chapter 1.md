@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-1/","created":"2024-04-22T13:42:12.207+08:00","updated":"2024-04-23T18:17:24.501+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/understanding-data-science/chapter-1/","noteIcon":"","created":"2024-04-22T13:42:12.207+08:00","updated":"2024-04-23T18:17:24.501+08:00"}
 ---
 
 # Lesson 1 - Understanding Data Science:
