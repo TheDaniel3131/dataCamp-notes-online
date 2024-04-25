@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/introduction-to-git/chapter-1-git-introduction/","noteIcon":"","created":"2024-04-25T23:14:32.430+08:00","updated":"2024-04-25T23:33:05.408+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/introduction-to-git/chapter-1-git-introduction/","noteIcon":"","created":"2024-04-25T23:14:32.430+08:00","updated":"2024-04-25T23:34:48.442+08:00"}
 ---
 
 # Introduction to version control with Git
@@ -101,4 +101,9 @@ Now let's check our understanding of version control!
 
 ![Pasted image 20240425233254.png](/img/user/Pasted%20image%2020240425233254.png)
 
-Super shell skills! Being able to navigate directories and interact with files is extremely beneficial as you begin to work with Git.
+Super shell skills! Being able to navigate directories and interact with files is extremely beneficial as you begin to work with Git
+
+![Pasted image 20240425233445.png](/img/user/Pasted%20image%2020240425233445.png)
+
+Great work! The `--version` flag allows you to check what version of Git is installed locally, which is useful if you upgrade, or need to compare versions among colleagues.
+
