@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/explainable-artificial-intelligence-xai-concepts/chapter-1/","noteIcon":"","created":"2024-04-28T16:31:06.272+08:00","updated":"2024-04-28T16:41:23.754+08:00"}
+{"dg-publish":true,"permalink":"/notes-for-data-camp-courses/explainable-artificial-intelligence-xai-concepts/chapter-1/","noteIcon":"","created":"2024-04-28T16:31:06.272+08:00","updated":"2024-04-28T16:45:26.075+08:00"}
 ---
 
 # Lesson 1 - Why Explainable AI (XAI) matters
@@ -176,4 +176,8 @@ Now that we've taken a look into communication about AI, time to engage with som
 ![Pasted image 20240428164122.png](/img/user/Pasted%20image%2020240428164122.png)
 
 Excellent work! Tailoring content ensures relevance and accessibility, fostering better engagement and comprehension across audiences.
+
+![Pasted image 20240428164524.png](/img/user/Pasted%20image%2020240428164524.png)
+
+Great choice! This explanation provides a balance between simplicity and accuracy, using the analogy of learning from experience, which is relatable and easy to understand. Grasping this balance is key to effectively communicating complex AI concepts to a non-technical audience
 
