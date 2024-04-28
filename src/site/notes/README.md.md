@@ -20,5 +20,6 @@ Main Page: https://datacamp-notes-online.vercel.app/
 - [[Notes for DataCamp Courses/Introduction to Git/Chapter 4\|Chapter 4]]
 - [[Notes for DataCamp Courses/Explainable Artificial Intelligence XAI Concepts/Chapter 1\|Chapter 1]]
 - [[Notes for DataCamp Courses/Explainable Artificial Intelligence XAI Concepts/Chapter 2\|Chapter 2]]
+- [[Notes for DataCamp Courses/Explainable Artificial Intelligence XAI Concepts/Chapter 3\|Chapter 3]]
 
 { .block-language-dataview}
